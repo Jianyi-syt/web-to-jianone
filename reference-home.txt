@@ -1,0 +1,143 @@
+01主页
+02作品集
+03我的OS
+ESTHER不二：AI 时代的个人系统与 AI 协作实践
+
+ESTHER不二是一位从建筑转向 AI 的内容创作者，记录如何与 AI Agent 一起搭建个人系统、创作内容和开发工具。
+
+用两个 Agent 搭建人生系统Esther Design System不二的个人看板用 Agent 开发自己的工具Cola + Obsidian 自媒体工作流
+esther OS
+About
+Values
+Now
+09:52
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+✦
+域名教程
+人生系统
+部署教程
+和AI搭档生活
+Cola+OB自媒体
+不二的书架
+Design Skill
+Build Your Tool
+不二的个人看板
+Work With Me
+Cola
+建筑转AI
+网页进化史
+写了就发
+Better Me
+B
+生日快乐！
+esther@universe ~ zsh
+$ echo "see you"
+See you next time.
+ 
+$ cat contact.md
+📮 esther.sjw@gmail.com
+📕 小红书 @ESTHER不二
+ 
+$ fortune
+“找到你喜欢的事，然后让它杀死你。” — Bukowski
+ 
+$ exit
+[Process completed]
+© 2026 ESTHER不二 · Built with AI & attitude
+↑
+回到开始 · Back to Start
